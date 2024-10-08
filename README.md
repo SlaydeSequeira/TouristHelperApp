@@ -66,3 +66,6 @@ Slayde Sequeira - @yourusername
 Thanks to all contributors and the open-source community!
 Special thanks to Google Maps API for powering the location services.
 Enjoy exploring the world with ExploreIt! Happy coding and happy travels! ✈️🌏
+
+
+This is a really nice repo.
